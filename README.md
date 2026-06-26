@@ -1,7 +1,7 @@
 # Open-Source-Engineering-Active-Research
 
 ### Table of Contents
-- [Secure Agentic Architecture](https://github.com/khalidelokiely/Open-Source-Engineering-Active-Research/main/README.md#secure-agentic-architecture)
+- [Secure Agentic Architecture](#secure-agentic-architecture)
 
 #### Secure Agentic Architecture
 Researching and building at the intersection of agentic AI systems and enterprise data
